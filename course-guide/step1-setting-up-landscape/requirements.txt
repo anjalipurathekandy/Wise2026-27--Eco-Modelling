@@ -1,0 +1,7 @@
+# Used by preprocessing_in_python/create_landscape.py and netlogo-starter-kit/v1/make_landscape_csv.py
+# Versions are those of the conda env WiSe26-EcoMod.
+# GDAL is easiest to install with conda (conda install -c conda-forge gdal); pip needs the system GDAL libraries.
+numpy==2.3.5
+matplotlib==3.10.9
+gdal==3.13.3
+basemap==2.0.0
